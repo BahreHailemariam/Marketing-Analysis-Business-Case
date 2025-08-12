@@ -1,69 +1,132 @@
-# Marketing-Analysis-Business-ShopEasy  Optimization: Building an Interactive Power BI Dashboard for ShopEasy, online retail business.
-## Table of Content
-  - [Description](#description)
-  - [Business Introduction](#business-introduction)
-  - [Business Problem](#business-problem)
-  - [Aim of this Project](#aim-of-this-project)
-  - [Processes](#processes)
-  - [Insights](#insights)
-  - [Recommendation](#recommendation)
-### Description
-The project offers an opportunity to gain hands-on experience in designing end-to-end data analytics solutions using Power BI for real estate industry applications, including data integration, visualization, predictive modeling, and actionable insights extraction
+# 🛒 Marketing Analytics Business Case
 
-### Business Introduction
-Business Introduction
-HomeVibe Properties, a distinguished presence in the residential real estate sector, boasts an extensive portfolio of apartment complexes and single-family rental properties across multiple cities. Renowned for their commitment to providing exceptional housing solutions, HomeVibe Properties has consistently delivered quality living experiences, fostering vibrant communities. In a rapidly evolving real estate landscape, the company's adaptability, meticulous attention to detail, and unwavering pursuit of excellence have established it as a leader in the industry.
-However, within the ever-changing real estate market, HomeVibe Properties faces a distinct challenge—tenant retention. To address this critical concern comprehensively and unlock opportunities for sustainable growth, HomeVibe Properties embarked on a journey to leverage Power BI, a powerful business intelligence tool, to develop an end-to-end solution. This case study delves into HomeVibe Properties' strategic utilization of Power BI, outlining the entire workflow from data collection to an interactive dashboard, aimed at optimizing tenant retention and solidifying its position as a beacon of excellence in the residential real estate industry.
+![image](https://github.com/user-attachments/assets/3439cc75-e7e8-4675-875c-ae1620788e6b)
 
-### Business Problem
-HomeVibe Properties has identified several pressing challenges related to tenant retention, presented in bullet points for clarity:
-- High Tenant Churn Rates: The company faces elevated tenant turnover rates, resulting in increased operational costs and lost revenue.
-- Limited Tenant Insights: HomeVibe Properties lacks actionable insights into tenant satisfaction and their concerns, making it challenging to proactively address issues.
-- Inefficient Lease Renewals: The lease renewal process is plagued by inefficiencies, contributing to tenant dissatisfaction and administrative overhead.
-- Lack of Trend Identification: Identifying trends and patterns affecting tenant retention is difficult, hindering the development of effective retention strategies.
-Aim of the Project
 
-### Aim of this Project
-The primary objectives of this project are as follows:
-- Interactive Tenant Retention Dashboard: Design and implement an interactive tenant retention dashboard using Power BI. 
-- Data Analysis: Analyze historical tenant data to identify factors affecting tenant churn and provide actionable insights. 
-- Lease Renewal Optimization: Streamline lease renewal processes to increase tenant retention rates.
-### Processes 
-Step 1: Data Cleaning and Transformation
-  Tools: Power Query (Power BI)
-   - Removed missing values and duplicates.
-   - Standardized data formats (e.g., dates, categories).
-   -Merged datasets (e.g., tenant details, lease agreements, payment records).
-   -Created calculated columns for key metrics (e.g., tenure duration, late payment frequency).
+## Project Overview
 
-Step 2: Data Modeling
-  Tools: Power BI Data Model, DAX
-  - Defined relationships between tables (e.g., tenants, leases, payments).
-  - Created measures using DAX for key KPIs like retention rate, churn rate, and average lease duration.
-  - Established hierarchies for better drill-down analysis (e.g., by property type, location).
+This project tackles the marketing challenges faced by **ShopEasy**, an online retail business, experiencing:
+- 📉 Reduced customer engagement
+- 🔻 Decreased conversion rates
+- 💰 High marketing expenses without returns
 
-Step 3: Analysis and Dashboard Creation
-  Tools: Power BI Visualization Features
-   - Built interactive dashboards with filters, slicers, and drill-through functionality.
-   - Used bar charts, line graphs, and heat maps to visualize key retention trends.
-   - Created KPIs to track tenant satisfaction metrics
-### Insights
-- Seasonal and Trend-Based Churn Patterns: The line chart of churn rate by month reveal seasonal patterns or specific times of the year when churn rates
-spike, indicating periods where targeted retention efforts could be most beneficial.
-- Lease Term Preferences and Their Impact on Retention: The frequency distribution of lease terms highlights tenant preferences, showing whether shorter or
-longer leases correlate with higher retention rates, suggesting adjustments to lease offerings.
-- Direct Correlation Between Tenant Satisfaction and Retention: Analysis from the bar chart showing satisfaction scores and the combo chart correlating
-churn status with satisfaction scores by property type provide concrete evidence that higher satisfaction levels are crucial for reducing churn rates.
-- Financial Efficiency and its Role in Overall Property Performance: Rent collection performance insights can highlight c operational efficiencies or issues
-affecting the company's financial health and its ability to invest in property improvements and tenant services.
-- Effectiveness of Renewal Strategies Over Time: The comparison of renewed versus expired leases over time can indicate the success of recent retention
-strategies or highilight the need for new approaches.
-### Recommendation
-- implement Targeted Retention Programs: Based on identified churn patterns, develop targeted retention programs during high-risk periods, such as
-personalized communication, special offers, or community events to engage tenants.
-- Adjust Lease Terms to Meet Tenant Preferences: If certain lease lengths correlate with higher retention, consider offering more flexible or preferred lease
-terms to new and renewing tenants to encourage longer stays.
-- Enhance Tenant Satisfaction: Prioritize improvements in areas directly impacting tenant satisfaction, as identified through survey responses. This could
-include property amenities, maintenance responsiveness, and community-building efforts.
-- Optimize Financial Operations : Address any identified inefficiencies in rent collection to improve financial stability. Consider implementing technology
-solutions for easier payment processes or offering incentives for on-time payments.
+The aim is to conduct an in-depth analysis to provide **actionable insights** for optimizing their marketing strategies and improving overall performance.
+
+---
+
+## 🚩 Problem Statement
+
+### Key Issues
+- **Reduced Customer Engagement**: Fewer interactions with site and marketing content.
+- **Low Conversion Rates**: Fewer visitors are converting to paying customers.
+- **High Marketing Costs**: Increased investment in marketing without yielding expected returns.
+- **Lack of Customer Feedback Analysis**: Customer opinions are not being fully utilized to improve marketing.
+
+---
+
+## 🎯 Project Goals
+
+### 🧠 **Increase Conversion Rates**
+- **Goal**: Understand factors influencing conversions.
+- **Insight**: Identify key stages where users drop off and suggest improvements to the funnel.
+
+### 🎥 **Enhance Customer Engagement**
+- **Goal**: Analyze types of content driving the most engagement.
+- **Insight**: Study customer interaction patterns with marketing content.
+
+### 💬 **Improve Customer Feedback Scores**
+- **Goal**: Extract themes from customer reviews for actionable insights.
+- **Insight**: Focus on positive and negative recurring feedback.
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+![image](https://github.com/user-attachments/assets/8f66da01-b3df-4847-8994-e7f6fd3987ec)
+
+
+- **Conversion Rate**: Percentage of site visitors who complete a purchase.
+- **Engagement Rate**: Interactions with content (clicks, likes, comments).
+- **Average Order Value (AOV)**: The average amount spent per transaction.
+- **Customer Feedback Score**: Average rating from customer reviews.
+
+---
+
+## 📈 Data Sources
+
+![image](https://github.com/user-attachments/assets/029503ac-b911-4635-9251-438b39d04bb2) ![image](https://github.com/user-attachments/assets/632d5154-2e7a-489d-abaa-30434f86e673)
+
+
+
+
+
+1. **Customer Reviews**: Analyzing feedback for sentiment and themes.
+2. **Social Media Metrics**: Understanding engagement trends.
+3. **Campaign Performance Metrics**: Evaluating marketing campaign efficiency.
+
+---
+
+## 🔍 Analytical Approach
+
+1. **Conversion Funnel Analysis**: Analyze user behavior at each stage to improve drop-offs.
+2. **Sentiment Analysis**: Understand common themes in customer feedback.
+3. **Content Performance**: Analyze the performance of different types of marketing content.
+4. **Marketing Campaign Analysis**: Evaluate the success of each campaign in driving conversions.
+
+---
+
+## 📑 Key Findings
+
+### 1. **Conversion Rates**
+   - Conversion rates peaked in **December** at 10.2%, rebounding from October's low of 5.0%.
+   - Seasonal product demand (e.g., Ski Boots) drove **150% conversion** in January.
+
+  ![image](https://github.com/user-attachments/assets/12825205-b1ef-42b0-9df0-1916c255a9b8)
+
+
+### 2. **Customer Engagement**
+   - Engagement peaked in **February** but declined from **August** onwards.
+   - Blog content led engagement, while video content was stable but less interactive.
+
+![image](https://github.com/user-attachments/assets/e0f987c6-91ae-4632-89e3-52482212fa98)
+
+
+### 3. **Customer Feedback**
+   - Average customer rating: **3.7**, slightly below the 4.0 target.
+   - **140 reviews** at 4 stars, and **135 reviews** at 5 stars, indicating overall satisfaction.
+
+  ![image](https://github.com/user-attachments/assets/fc7695dd-d85a-430d-b539-373784a8a934)
+
+
+---
+
+## 📝 Recommendations
+
+### 1. **Increase Conversion Rates**
+   - 📊 **Target high-performing products** (e.g., Ski Boots) with focused promotions during peak seasons.
+   
+### 2. **Enhance Customer Engagement**
+   - 🔄 **Revamp content strategy**: Experiment with engaging formats like **interactive videos** and **user-generated content**.
+
+### 3. **Improve Customer Feedback**
+   - 📧 **Address mixed reviews**: Follow up with customers to resolve issues and improve ratings.
+
+---
+
+## 🛠️ Future Work
+
+1. Implement **Machine Learning** models to predict customer behavior.
+2. Conduct **A/B testing** to refine marketing strategies.
+3. Develop an **automated feedback system** to respond to customer reviews in real time.
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── data/                   # Raw and processed data files
+├── notebooks/              # Jupyter Notebooks used for analysis
+├── images/                 # Visual assets for the report and README
+├── src/                    # Source code for data processing
+├── reports/                # Final analysis reports and presentations
+└── README.md               # Project overview and documentation
