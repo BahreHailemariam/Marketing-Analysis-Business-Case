@@ -1,6 +1,6 @@
 # 🛒 Marketing Analytics Business Case
 
-![image](https://github.com/user-attachments/assets/3439cc75-e7e8-4675-875c-ae1620788e6b)
+![image](Marketing.png)
 
 
 ## Project Overview
@@ -42,7 +42,7 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
 
 ## 📊 Key Performance Indicators (KPIs)
 
-![image](https://github.com/user-attachments/assets/8f66da01-b3df-4847-8994-e7f6fd3987ec)
+![image](Overview.png)
 
 
 - **Conversion Rate**: Percentage of site visitors who complete a purchase.
@@ -54,7 +54,7 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
 
 ## 📈 Data Sources
 
-![image](https://github.com/user-attachments/assets/029503ac-b911-4635-9251-438b39d04bb2) ![image](https://github.com/user-attachments/assets/632d5154-2e7a-489d-abaa-30434f86e673)
+![image](data_rource.png)
 
 
 
@@ -81,21 +81,21 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
    - Conversion rates peaked in **December** at 10.2%, rebounding from October's low of 5.0%.
    - Seasonal product demand (e.g., Ski Boots) drove **150% conversion** in January.
 
-  ![image](https://github.com/user-attachments/assets/12825205-b1ef-42b0-9df0-1916c255a9b8)
+  ![image](Conversion_Rate.png)
 
 
 ### 2. **Customer Engagement**
    - Engagement peaked in **February** but declined from **August** onwards.
    - Blog content led engagement, while video content was stable but less interactive.
 
-![image](https://github.com/user-attachments/assets/e0f987c6-91ae-4632-89e3-52482212fa98)
+![image](Customer-Engagement.png)
 
 
 ### 3. **Customer Feedback**
    - Average customer rating: **3.7**, slightly below the 4.0 target.
    - **140 reviews** at 4 stars, and **135 reviews** at 5 stars, indicating overall satisfaction.
 
-  ![image](https://github.com/user-attachments/assets/fc7695dd-d85a-430d-b539-373784a8a934)
+  ![image](Customer_Feedback.png)
 
 
 ---
