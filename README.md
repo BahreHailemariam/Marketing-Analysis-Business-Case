@@ -130,8 +130,10 @@ The aim is to conduct an in-depth analysis to provide **actionable insights** fo
 ├── src/                    # Source code for data processing
 ├── reports/                # Final analysis reports and presentations
 └── README.md               # Project overview and documentation
-## 👤 Author
+
 ```
-**Bahre Hailemariam**\
-📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
-🔗 [LinkedIn](#) \| [Portfolio](#) \| [GitHub](#)
+## 👤 Author
+**Bahre Hailemariam**  
+📍 _Data Analyst & BI Developer_  
+📩 [Email Adress](bahre.hail@gmail.com) | 🌐[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) |💼[LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/) | 📊[GitHub](https://github.com/BahreHailemariam)
+
